@@ -1,0 +1,54 @@
+{
+  "homeworks": [
+    {
+      "id": 1,
+      "adi": "Test",
+      "icerigi": "Test ödevidir",
+      "kaytarih": "1668069636299",
+      "duztarih": "1668069636299"
+    },
+    {
+      "id": 2,
+      "adi": "Deneme",
+      "icerigi": "Deneme ödevidir",
+      "kaytarih": "1669118691794",
+      "duztarih": "1669118691794"
+    },
+    {
+      "id": 3,
+      "adi": "matematik ödevi",
+      "icerigi": "2+2=4",
+      "kaytarih": "1669120610922",
+      "duztarih": "1669120610922"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "adsoyad": "Ferhat",
+      "mail": "ferhat@mail.com",
+      "admin": "1",
+      "parola": "123",
+      "kaytarih": "1668070115626",
+      "duztarih": "1668085146787"
+    },
+    {
+      "id": 2,
+      "adsoyad": "deneme",
+      "mail": "deneme@mail.com",
+      "admin": "0",
+      "parola": "123",
+      "kaytarih": "1668070283323",
+      "duztarih": "1669118700201"
+    },
+    {
+      "id": 3,
+      "adsoyad": "ahmet",
+      "mail": "ahmet@gmail.com",
+      "admin": 0,
+      "parola": "123",
+      "kaytarih": "1669118713227",
+      "duztarih": "1669118713227"
+    }
+  ]
+}
